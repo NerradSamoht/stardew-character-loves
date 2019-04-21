@@ -8,7 +8,7 @@ class Character extends Component {
       const src = "/assets/" + file + ".png";
       return (
         <li key={uniqid()}>
-          <img src={src} alt="" />
+          <img src={process.env.PUBLIC_URL + src} alt="" />
           {item}
         </li>
       );
@@ -21,7 +21,7 @@ class Character extends Component {
         </button>
         <img
           width="80"
-          src={this.props.img}
+          src={process.env.PUBLIC_URL + this.props.img}
           className="profile-pic"
           alt={this.props.name}
         />
