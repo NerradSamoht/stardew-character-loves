@@ -52,7 +52,7 @@ class App extends Component {
     const characterList = this.state.characters.map(item => (
       <button key={uniqid()} onClick={this.getCharacter} data-name={item.name}>
         <img
-          src={item.img}
+          src={process.env.PUBLIC_URL + item.img}
           alt={item.name}
           title={item.name}
           data-name={item.name}
