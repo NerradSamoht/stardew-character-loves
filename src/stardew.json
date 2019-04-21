@@ -1,0 +1,336 @@
+{
+  "Characters": [
+    {
+      "name": "Alex",
+      "loves": ["Complete Breakfast", "Salmon Dinner"],
+      "birthday": "Summer 13",
+      "img": "/assets/Alex.png"
+    },
+    {
+      "name": "Elliott",
+      "loves": [
+        "Crab Cakes",
+        "Duck Feather",
+        "Lobster",
+        "Pomegranate",
+        "Tom Kha Soup"
+      ],
+      "birthday": "Fall 05",
+      "img": "/assets/Elliott.png"
+    },
+    {
+      "name": "Harvey",
+      "loves": ["Coffee", "Pickles", "Super Meal", "Truffle Oil", "Wine"],
+      "birthday": "Winter 14",
+      "img": "/assets/Harvey.png"
+    },
+    {
+      "name": "Sam",
+      "loves": ["Cactus Fruit", "Maple Bar", "Pizza", "Tigerseye"],
+      "birthday": "Summer 17",
+      "img": "/assets/Sam.png"
+    },
+    {
+      "name": "Sebastian",
+      "loves": [
+        "Frozen Tear",
+        "Obsidian",
+        "Pumpkin Soup",
+        "Sashimi",
+        "Void Egg"
+      ],
+      "birthday": "Winter 10",
+      "img": "/assets/Sebastian.png"
+    },
+    {
+      "name": "Shane",
+      "loves": ["Beer", "Hot Pepper", "Pepper Poppers", "Pizza"],
+      "birthday": "Spring 20",
+      "img": "/assets/Shane.png"
+    },
+    {
+      "name": "Abigail",
+      "loves": [
+        "Amethyst",
+        "Blackberry Cobbler",
+        "Chocolate Cake",
+        "Pufferfish",
+        "Pumpkin",
+        "Spicy Eel"
+      ],
+      "birthday": "Fall 13",
+      "img": "/assets/Abigail.png"
+    },
+    {
+      "name": "Emily",
+      "loves": [
+        "Amethyst",
+        "Aquamarine",
+        "Cloth",
+        "Emerald",
+        "Jade",
+        "Ruby",
+        "Survival Burger",
+        "Topaz",
+        "Wool"
+      ],
+      "birthday": "Spring 27",
+      "img": "/assets/Emily.png"
+    },
+    {
+      "name": "Haley",
+      "loves": ["Coconut", "Fruit Salad", "Pink Cake", "Sunflower"],
+      "birthday": "Spring 14",
+      "img": "/assets/Haley.png"
+    },
+    {
+      "name": "Leah",
+      "loves": [
+        "Goat Cheese",
+        "Poppyseed Muffin",
+        "Salad",
+        "Stir Fry",
+        "Truffle",
+        "Vegetable Medley",
+        "Wine"
+      ],
+      "birthday": "Winter 23",
+      "img": "/assets/Leah.png"
+    },
+    {
+      "name": "Maru",
+      "loves": [
+        "Battery Pack",
+        "Cauliflower",
+        "Cheese Cauliflower",
+        "Diamond",
+        "Gold Bar",
+        "Iridium Bar",
+        "Miner's Treat",
+        "Pepper Poppers",
+        "Rhubarb Pie",
+        "Strawberry"
+      ],
+      "birthday": "Summer 10",
+      "img": "/assets/Maru.png"
+    },
+    {
+      "name": "Penny",
+      "loves": [
+        "Diamond",
+        "Emerald",
+        "Melon",
+        "Poppy",
+        "Poppyseed Muffin",
+        "Red Plate",
+        "Roots Platter",
+        "Sandfish",
+        "Tom Kha Soup"
+      ],
+      "birthday": "Fall 02",
+      "img": "/assets/Penny.png"
+    },
+    {
+      "name": "Caroline",
+      "loves": ["Fish Taco", "Summer Spangle"],
+      "birthday": "Winter 07",
+      "img": "/assets/Caroline.png"
+    },
+    {
+      "name": "Clint",
+      "loves": [
+        "Amethyst",
+        "Aquamarine",
+        "Artichoke Dip",
+        "Emerald",
+        "Fiddlehead Risotto",
+        "Gold Bar",
+        "Iridium Bar",
+        "Jade",
+        "Omni Geode",
+        "Ruby",
+        "Topaz"
+      ],
+      "birthday": "Winter 26",
+      "img": "/assets/Clint.png"
+    },
+    {
+      "name": "Demetrius",
+      "loves": ["Bean Hotpot", "Ice Cream", "Rice Pudding", "Strawberry"],
+      "birthday": "Summer 19",
+      "img": "/assets/Demetrius.png"
+    },
+    {
+      "name": "Dwarf",
+      "loves": [
+        "Amethyst",
+        "Aquamarine",
+        "Emerald",
+        "Jade",
+        "Omni Geode",
+        "Ruby",
+        "Topaz"
+      ],
+      "birthday": "Summer 22",
+      "img": "/assets/Dwarf.png"
+    },
+    {
+      "name": "Evelyn",
+      "loves": [
+        "Beet",
+        "Chocolate Cake",
+        "Diamond",
+        "Fairy Rose",
+        "Stuffing",
+        "Tulip"
+      ],
+      "birthday": "Winter 20",
+      "img": "/assets/Evelyn.png"
+    },
+    {
+      "name": "George",
+      "loves": ["Fried Mushroom", "Leek"],
+      "birthday": "Fall 24",
+      "img": "/assets/George.png"
+    },
+    {
+      "name": "Gus",
+      "loves": ["Diamond", "Escargot", "Fish Taco", "Orange"],
+      "birthday": "Summer 08",
+      "img": "/assets/Gus.png"
+    },
+    {
+      "name": "Jas",
+      "loves": ["Fairy Rose", "Pink Cake", "Plum Pudding"],
+      "birthday": "Summer 04",
+      "img": "/assets/Jas.png"
+    },
+    {
+      "name": "Jodi",
+      "loves": [
+        "Chocolate Cake",
+        "Crispy Bass",
+        "Diamond",
+        "Eggplant Parmesan",
+        "Fried Eel",
+        "Pancakes",
+        "Rhubarb Pie",
+        "Vegetable Medley"
+      ],
+      "birthday": "Fall 11",
+      "img": "/assets/Jodi.png"
+    },
+    {
+      "name": "Kent",
+      "loves": ["Fiddlehead Risotto", "Roasted Hazelnuts"],
+      "birthday": "Spring 04",
+      "img": "/assets/Kent.png"
+    },
+    {
+      "name": "Krobus",
+      "loves": [
+        "Diamond",
+        "Iridium Bar",
+        "Pumpkin",
+        "Void Egg",
+        "Void Mayonnaise",
+        "Wild Horseradish"
+      ],
+      "birthday": "Winter 01",
+      "img": "/assets/Krobus.png"
+    },
+    {
+      "name": "Lewis",
+      "loves": [
+        "Autumn's Bounty",
+        "Glazed Yams",
+        "Hot Pepper",
+        "Vegetable Medley"
+      ],
+      "birthday": "Spring 07",
+      "img": "/assets/Lewis.png"
+    },
+    {
+      "name": "Linus",
+      "loves": [
+        "Blueberry Tart",
+        "Cactus Fruit",
+        "Coconut",
+        "Dish o' The Sea",
+        "Yam"
+      ],
+      "birthday": "Winter 03",
+      "img": "/assets/Linus.png"
+    },
+    {
+      "name": "Marnie",
+      "loves": ["Diamond", "Farmer's Lunch", "Pink Cake", "Pumpkin Pie"],
+      "birthday": "Fall 18",
+      "img": "/assets/Marnie.png"
+    },
+    {
+      "name": "Pam",
+      "loves": [
+        "Beer",
+        "Cactus Fruit",
+        "Glazed Yams",
+        "Mead",
+        "Pale Ale",
+        "Parsnip",
+        "Parsnip Soup"
+      ],
+      "birthday": "Spring 18",
+      "img": "/assets/Pam.png"
+    },
+    {
+      "name": "Pierre",
+      "loves": ["Fried Calamari"],
+      "birthday": "Spring 26",
+      "img": "/assets/Pierre.png"
+    },
+    {
+      "name": "Robin",
+      "loves": ["Goat Cheese", "Peach", "Spaghetti"],
+      "birthday": "Fall 21",
+      "img": "/assets/Robin.png"
+    },
+    {
+      "name": "Sandy",
+      "loves": ["Crocus", "Daffodil", "Sweet Pea"],
+      "birthday": "Fall 15",
+      "img": "/assets/Sandy.png"
+    },
+    {
+      "name": "Vincent",
+      "loves": ["Cranberry Candy", "Grape", "Pink Cake"],
+      "birthday": "Spring 10",
+      "img": "/assets/Vincent.png"
+    },
+    {
+      "name": "Willy",
+      "loves": [
+        "Catfish",
+        "Diamond",
+        "Iridium Bar",
+        "Mead",
+        "Octopus",
+        "Pumpkin",
+        "Sea Cucumber",
+        "Sturgeon"
+      ],
+      "birthday": "Summer 24",
+      "img": "/assets/Willy.png"
+    },
+    {
+      "name": "Wizard",
+      "loves": [
+        "Purple Mushroom",
+        "Solar Essence",
+        "Super Cucumber",
+        "Void Essence"
+      ],
+      "birthday": "Winter 17",
+      "img": "/assets/Wizard.png"
+    }
+  ]
+}
