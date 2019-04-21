@@ -1,13 +1,13 @@
 {
   "name": "stardew-valley",
   "version": "0.1.0",
+  "homepage": "http://nerradsamoht.github.io/stardew-character-loves",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "uniqid": "^5.0.3",
-    "homepage": "http://nerradsamoht.github.io/stardew-character-loves"
+    "uniqid": "^5.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
