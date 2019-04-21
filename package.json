@@ -1,7 +1,7 @@
 {
   "name": "stardew-valley",
   "version": "0.1.0",
-  "homepage": "http://nerradsamoht.github.io/stardew-character-loves",
+  "homepage": "http://nerradsamoht.github.io/stardew-character-loves/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
