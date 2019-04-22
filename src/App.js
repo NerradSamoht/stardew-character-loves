@@ -21,7 +21,6 @@ class App extends Component {
   getCharacter = e => {
     const name = e.target.getAttribute("data-name");
     const character = this.state.characters.filter(item => item.name === name);
-    console.log(character);
 
     if (character.length > 0) {
       this.setState(
