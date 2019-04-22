@@ -1,0 +1,15 @@
+{
+  "short_name": "Stardew ❤️",
+  "name": "Stardew Character Loves ❤️",
+  "icons": [
+    {
+      "src": "favicon.icon",
+      "sizes": "96x96 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#150c4c",
+  "background_color": "#150c4c"
+}
